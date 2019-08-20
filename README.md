@@ -1,15 +1,17 @@
 # _Transportation Survey_
 
-#### _Given a task to build a Word Puzzle Webpage, 8/20/2019_
+#### _Given a task to build a Transportation Survey Webpage, 8/20/2019_
 #### _**08/20/19: Zubeyde Sisman& Misaki Koonce**_
 
 ## Description
-Build a Word Puzzle(using HTML, CSS, JavaScript and jQuery Arrays&Loops)
+Build a Transportation Survey (using HTML, CSS, JavaScript and jQuery Arrays&Loops)
 
 ### Website should have:
 
-Build a Word Puzzle(using HTML, CSS, JavaScript and jQuery Arrays&Loops)
-Create a website that uses a method to replace vowels in a string with the dash symbol "-" to create a word puzzle to solve. Hide the original string when you show the resulting word puzzle, so that another person can try and guess it.
+Build a Transportation Survey (using HTML, CSS, JavaScript and jQuery Arrays&Loops)
+Create a website that prompts users to fill out a survey regarding which methods of transportation they've used to get to work in the past year. Include at least five options for users to select from.
+
+Then, once you can successfully gather data from one question, include a second survey question asking users which methods of transportation they've used to travel to non-work or recreational activities. This second question should use a second set of checkboxes.
 ## Setup/Installation Requirements
 
 * Clone this repository.
